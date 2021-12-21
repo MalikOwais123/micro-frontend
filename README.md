@@ -32,3 +32,7 @@
     `SEE ITS WORKING`
 
     Now use component just from other app just like from the same app
+
+
+## Error handling (allows you to handle the error the with component)
+    `and only effect the error component not the whole web`

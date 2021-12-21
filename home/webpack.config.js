@@ -48,7 +48,8 @@ module.exports = {
         // Expose components to other bundles
         "./Header": "./src/components/Header/Header.jsx",
         "./Footer": "./src/components/Footer/Footer.jsx",
-        "./Test" : "./src/Test.jsx",
+        "./Test": "./src/Test.jsx",
+        "./products": "./src/products.js",
       },
       shared: {
         ...deps,
